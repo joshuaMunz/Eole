@@ -5,7 +5,7 @@ package affichage;
 
 /**
  * @author BASTIAN
- *ghghgvhgvhgvhgvhgvjbitegfhhgfhgfhcvfhd
+ *test
  */
 public class Fenêtre {
 
