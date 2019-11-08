@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author BASTIAN
- *
- */
-module eole {
-}
